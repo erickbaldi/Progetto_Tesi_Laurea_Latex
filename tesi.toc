@@ -1,0 +1,50 @@
+\select@language {italian}
+\contentsline {chapter}{Introduzione}{i}
+\contentsline {chapter}{\numberline {1}Problemi di packing e cutting nei layout}{1}
+\contentsline {section}{\numberline {1.1}Layout fieristici}{2}
+\contentsline {section}{\numberline {1.2}Cutting and Packing problems}{4}
+\contentsline {subsection}{\numberline {1.2.1}Knapsack problem}{6}
+\contentsline {subsubsection}{KNAPSACK 0-1 (BINARY)}{7}
+\contentsline {subsection}{\numberline {1.2.2}Bin Packing Problem}{13}
+\contentsline {subsection}{\numberline {1.2.3}Two Dimensional Bin-packing Problem}{18}
+\contentsline {subsubsection}{LEVEL PACKING}{24}
+\contentsline {subsubsection}{TWO DIMENSIONAL LEVEL BIN PACKING PROBLEM}{25}
+\contentsline {subsubsection}{NON-LEVEL ALGORITHMS}{27}
+\contentsline {subsubsection}{ALGORITMI METAEURISTICI}{29}
+\contentsline {subsubsection}{ALGORITMI ESATTI}{32}
+\contentsline {subsubsection}{ULTIME VERSIONI E APPLICAZIONI}{33}
+\contentsline {subsection}{\numberline {1.2.4}Two Dimensional Strip-packing Problem}{34}
+\contentsline {subsubsection}{ALGORITMI ESATTI}{35}
+\contentsline {subsubsection}{ALGORITMI METAEURISTICI}{37}
+\contentsline {subsubsection}{LEVEL PACKING}{40}
+\contentsline {subsection}{\numberline {1.2.5}Two Dimensional Knapsack Problem}{40}
+\contentsline {section}{\numberline {1.3}Facility layout problem}{44}
+\contentsline {subsection}{\numberline {1.3.1}Modelli per il facility layout problem}{45}
+\contentsline {subsubsection}{MODELLO QAP}{45}
+\contentsline {subsubsection}{MODELLO GRAPH THEORY}{47}
+\contentsline {subsubsection}{MODELLO MIP}{47}
+\contentsline {subsection}{\numberline {1.3.2}Metodologie di risoluzione}{48}
+\contentsline {subsubsection}{METODI ESATTI}{48}
+\contentsline {subsubsection}{ALGORITMI EURISTICI}{49}
+\contentsline {subsubsection}{ALGORITMI METAEURISTICI}{50}
+\contentsline {subsubsection}{OBIETTIVI FUTURI E NUOVI SCENARI D'AZIONE}{52}
+\contentsline {chapter}{\numberline {2}Ottimizzazione dei layout fieristici}{55}
+\contentsline {section}{\numberline {2.1}Specifiche e contesti per il progetto}{56}
+\contentsline {subsection}{\numberline {2.1.1}Modelli matematici}{61}
+\contentsline {section}{\numberline {2.2}Studio e analisi di casi reali}{65}
+\contentsline {subsection}{\numberline {2.2.1}Caso 1: Fortaleza handcraft fair}{66}
+\contentsline {subsection}{\numberline {2.2.2}Caso 2: Regional fair in Romont}{70}
+\contentsline {subsection}{\numberline {2.2.3}Considerazioni finali}{80}
+\contentsline {chapter}{\numberline {3}Casi di studio e specifiche di progetto}{83}
+\contentsline {section}{\numberline {3.1}Presentazione dei casi di studio}{84}
+\contentsline {subsection}{\numberline {3.1.1}Fiera del Levante}{85}
+\contentsline {subsection}{\numberline {3.1.2}Fiera di Bolzano}{88}
+\contentsline {subsection}{\numberline {3.1.3}Expo Ferroviaria 2008}{91}
+\contentsline {section}{\numberline {3.2}Criterio per la definizione e la scrittura delle matrici}{92}
+\contentsline {chapter}{\numberline {4}Implementazione degli algoritmi e risultati computazionali}{97}
+\contentsline {section}{\numberline {4.1}Fiera del Levante: soluzione}{98}
+\contentsline {section}{\numberline {4.2}Fiera di Bolzano: soluzione}{102}
+\contentsline {section}{\numberline {4.3}Expo Ferroviaria 2008: soluzione}{103}
+\contentsline {section}{\numberline {4.4}Considerazioni finali}{104}
+\contentsline {chapter}{\numberline {5}Conclusioni}{109}
+\contentsline {chapter}{Bibliografia}{111}

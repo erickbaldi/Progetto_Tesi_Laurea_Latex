@@ -1,0 +1,7 @@
+/*Parte mia - Expo Ferroviaria 2008 - Padiglione 2*/
+polygon; unlock; 0 0; 0 199; 96 199; 96 0						dimensioni pad.2
+lock1; lock; 0,0; 0 12.5; 96 12.5; 96 0							ingresso 
+lock2; lock; 0 199; 96 199; 96 124.52; 60 124.52; 60 174.52; 0 174.52	area expansion - ristorante
+lock3; lock; 0 116.6; 0 124.52; 96 124.52; 96 116.6				corridoione1
+lock4; lock; 0 69.26; 0 77.18; 96 77.18; 96 69.26					corridoione2
+
